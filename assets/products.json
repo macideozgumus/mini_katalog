@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Akıllı Telefon",
+    "price": 8999.99,
+    "imageUrl": "assets/images/telefon.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 15499.50,
+    "imageUrl": "assets/images/laptop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kulaklık",
+    "price": 1299.99,
+    "imageUrl": "assets/images/kulaklik.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Akıllı Saat",
+    "price": 3499.90,
+    "imageUrl": "assets/images/saat.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "price": 6299.00,
+    "imageUrl": "assets/images/tablet.jpg"
+  }
+]
