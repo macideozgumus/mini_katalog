@@ -1,17 +1,47 @@
-# mini_katalog
+# Mini Katalog - Flutter Mobil Uygulaması
 
-A new Flutter project.
+TNC Group staj programı kapsamında geliştirilmiş Flutter mobil uygulamasıdır.
 
-## Getting Started
+## 📱 Proje Hakkında
 
-This project is a starting point for a Flutter application.
+Mini Katalog, kullanıcıların ürünleri görüntüleyebileceği, arayabileceği ve detaylarını inceleyebileceği bir mobil katalog uygulamasıdır.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Özellikler
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Ürün listeleme (GridView ile 2 sütunlu görünüm)
+- Ürün detay sayfası
+- Arama ve filtreleme özelliği
+- JSON veri yönetimi
+- Responsive tasarım
+- Material Design UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Kullanılan Teknolojiler
+
+- **Flutter** - Mobil uygulama framework'ü
+- **Dart** - Programlama dili
+- **Material Design** - UI/UX tasarımı
+
+## 🚀 Kurulum
+```bash
+flutter pub get
+flutter run
+```
+
+## 📂 Proje Yapısı
+```
+lib/
+├── main.dart
+├── models/
+│   └── product.dart
+└── screens/
+    ├── home_screen.dart
+    └── detail_screen.dart
+```
+
+## 📸 Ekran Görüntüleri
+
+Proje ekran görüntüleri screenshots klasöründe bulunmaktadır.
+
+## 👨‍💻 Geliştirici
+
+TNC Group - Software Persona Stajyeri
